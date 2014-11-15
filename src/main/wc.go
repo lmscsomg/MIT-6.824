@@ -9,7 +9,6 @@ import "container/list"
 // key to the Map function, as in the paper; only a value,
 // which is a part of the input file contents
 func Map(value string) *list.List {
-	"hehe"
 }
 
 // iterate over list and add values
